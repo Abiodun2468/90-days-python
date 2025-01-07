@@ -1,5 +1,5 @@
 # print a greeting message
-print("Hello world")
+print("Hello World")
 
 # perform basic arithmetic in python and print the results
 print("2+2")
